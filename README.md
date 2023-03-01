@@ -1,6 +1,6 @@
-#Frontend Part of Mern TodoList DevTown Project
+# Frontend Part of Mern TodoList DevTown Project
 
-#Link of MERN App:
+# Link of MERN App:
 
 https://priyanka-mern-frontend.netlify.app
 
